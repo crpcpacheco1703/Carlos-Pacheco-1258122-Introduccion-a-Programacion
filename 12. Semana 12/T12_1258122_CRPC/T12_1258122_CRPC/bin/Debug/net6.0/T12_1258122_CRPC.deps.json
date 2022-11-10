@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "T12_1258122_CRPC/1.0.0": {
+        "runtime": {
+          "T12_1258122_CRPC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T12_1258122_CRPC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
