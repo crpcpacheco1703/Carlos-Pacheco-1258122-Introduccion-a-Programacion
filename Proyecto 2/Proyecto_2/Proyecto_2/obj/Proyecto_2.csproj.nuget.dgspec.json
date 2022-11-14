@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crpcp\\source\\repos\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj": {}
+    "C:\\Users\\crpcp\\OneDrive\\Escritorio\\University\\2do Semestre\\Introducción a Programación\\Laboratorio\\0. Gifthub\\Carlos-Pacheco-1258122-Introduccion-a-Programacion\\Proyecto 2\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crpcp\\source\\repos\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj": {
+    "C:\\Users\\crpcp\\OneDrive\\Escritorio\\University\\2do Semestre\\Introducción a Programación\\Laboratorio\\0. Gifthub\\Carlos-Pacheco-1258122-Introduccion-a-Programacion\\Proyecto 2\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crpcp\\source\\repos\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj",
+        "projectUniqueName": "C:\\Users\\crpcp\\OneDrive\\Escritorio\\University\\2do Semestre\\Introducción a Programación\\Laboratorio\\0. Gifthub\\Carlos-Pacheco-1258122-Introduccion-a-Programacion\\Proyecto 2\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj",
         "projectName": "Proyecto_2",
-        "projectPath": "C:\\Users\\crpcp\\source\\repos\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj",
+        "projectPath": "C:\\Users\\crpcp\\OneDrive\\Escritorio\\University\\2do Semestre\\Introducción a Programación\\Laboratorio\\0. Gifthub\\Carlos-Pacheco-1258122-Introduccion-a-Programacion\\Proyecto 2\\Proyecto_2\\Proyecto_2\\Proyecto_2.csproj",
         "packagesPath": "C:\\Users\\crpcp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crpcp\\source\\repos\\Proyecto_2\\Proyecto_2\\obj\\",
+        "outputPath": "C:\\Users\\crpcp\\OneDrive\\Escritorio\\University\\2do Semestre\\Introducción a Programación\\Laboratorio\\0. Gifthub\\Carlos-Pacheco-1258122-Introduccion-a-Programacion\\Proyecto 2\\Proyecto_2\\Proyecto_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crpcp\\AppData\\Roaming\\NuGet\\NuGet.Config",
